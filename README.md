@@ -1,4 +1,4 @@
-#Text Classification Using Traditional ML Models
+# Text Classification Using Traditional ML Models
 
 This assignment was part of the Text Analytics Course of the M.Sc in Data Science program of the Athens University of Economics and Business.
 It was a group assignment with the two other group members being my classmates Despoina Angelonidi and Eirini Mylona.
